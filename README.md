@@ -10,16 +10,16 @@ Files Included:
 - `README.md` - Project overview and instructions
 
 Instructions:
-Python
+Python:
 1. Install libraries: `pip install pandas matplotlib seaborn`
 2. Run the python file
 
-R
+R:
 1. Install ggplot2: `install.packages("ggplot2")`
 2. Run `NetflixDataVisualization.R`
 
 Note: Make sure the `netflix_data.csv` file is in the same directory as the scripts.
 
-Outputs
+Outputs:
 - Top genres
 - Ratings distribution
