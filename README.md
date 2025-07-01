@@ -1,6 +1,6 @@
 Netflix Data Visualization
 
-Description
+Description:
 This project analyzes a dataset of Netflix shows and movies using Python and R. It includes data cleaning, exploration, and visualization.
 
 Files Included:
